@@ -1,0 +1,15 @@
+NYC Airbnb Spreedsheet Analysis
+
+An analysis of the Manhattan vaction rental market. Provides guidance on which property types to invest in and a thorugugh analysis of the airbnb data for insights.
+
+Link: https://docs.google.com/spreadsheets/d/1ioR-DIlCAOnPCC7qhgLYlJWrlQBHPyJSX78qC-Ovy00/edit?usp=sharing
+
+- I built a Google Sheets report to answer the following business questions:
+    - Which neighborhoods and property sizes (i.e. number of bedrooms) are most attractive for vacation rentals?
+    - How much money did these listings generate?
+
+- This project solidified my Excel/Sheets skills in the following areas:
+    - Data cleaning tools, like text functions and Find and Replace
+    - Pivot tables for quick and efficient analyses
+    - Spreadsheet best practices, like adding documentation and protecting sheets
+    - Building charts and graphs using the chart editor
