@@ -1,0 +1,38 @@
+Saving SuperStore - Storytelling with Tableau
+
+A analytical investigation and dashboard for a whole-sale retail company to investigate sales and returns metrics 
+and subsequent conclusions and recommendations based on the analysis.
+
+LINK:
+https://public.tableau.com/views/OmaTounsi-Project22/Streamline?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+PRESENTATION LINK:
+https://drive.google.com/file/d/18AU9LTuZCEqoz8LsDkFh9RTHGmwaHTp-/view?usp=sharing
+
+- Built worksheets analyzing different views on return rates
+- Joined multiple tables within Tableau 
+- Created calculated fields to based on existing columns to clean data and make it usable
+- Dashboard:
+  - Scatterplot showing correlation between total sales and total returns. Aggregated by product subcategory
+  - Calculated total returns and return rate KPI metrics
+  - Return Rates by States
+  - Return Rate by Month
+  - Return Rate by Week Day for Region
+  - Return Rate by Week Day for Ship Mode
+  - Created universal filters to filter all charts by Ship Mode, Weekday, and Region
+
+Analysis:
+Returns are measured by the total number of returns over the total number of orders. I believe that there is no 
+regional significance as to why return rates are higher - geographically, the return rates are very similar. There may be 
+more investigation to do based on shipping modes of products. Especially on Thursday and Friday, Same-Day Shipping skyrockets from 
+the average return rate of 25% to around 75% these days. Similarly, the months of August and September seem to experience the highest 
+return rates and, on average, Mondays experience a high return rate from the Eastern Region while Fridays experience a high return rate for the Western Region. 
+
+
+Conclusions
+There is a geographical difference in return rates by customers, especially in the western and eastern regions. 
+I created another dashboard that removes any unnecessary metrics and have included filters for Ship Modes as this seems to be a problem aswell. 
+
+Recommendations
+There needs to be further analysis and communication to investigate shipping modes. 
+A feedback form for customers with repeat returns and every repeat customer may be necessary to gather insights.
