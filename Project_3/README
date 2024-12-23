@@ -1,0 +1,72 @@
+Zomato PowerBI Analysis, Report, and Dashboard
+
+Questions to be answered
+	
+I want to be able to answer the following questions:
+  - Who are Zomato’s customers?
+  - What segments can we split them into?
+  - What is their purchasing behavior?
+  - What makes certain customers more profitable than others?
+  - What steps can we take to improve customer retention?
+
+
+Hypothesis
+From my initial EPA, most of our user base is composed of people in their 20’s. The biggest spenders being single, graduate and postgraduate individuals. From this initial analysis, I hypothesize:
+A higher proportion of orders placed through the app are from customers who report higher income levels
+Users over the age of 33 and/or those with children are less engaged with the app than users under 33 and without children
+Customers in the 20-29 age group have higher average order values compared to other age groups
+Married customers with children tend to spend more per order and have higher lifetime spend compared to single customers or those without children
+
+Visualizations to be used
+
+Bar Charts: Good for comparing the overall distribution of customer demographics (age groups, income, etc.) and order behavior.
+Tableau Dashboard: Building a dashboard with filters to visualize and drill down into different segments. Additional visualizations I might consider:
+Heatmaps: For understanding time-of-day or weekday effects on order frequency.
+Cohort Analysis: Tracking customer retention and comparing behaviors over time.
+Box Plots: For understanding order value distribution by age group, income, etc.
+
+
+
+
+Data Management
+
+	Tables:
+        The two main tables I will be referencing are the Users and Orders tables. 
+      I believe I should create new tables to aggregate the data I want to see based on each cohort so to do this I can work in Excel and create groupings based on different metrics such as age, first order dates and so on.
+
+  Columns:
+    User_id from Orders table and User_id from Users table joined at “many to one” cardinality, single cross-filter direction
+    Orders Table:
+      To get data on total spending from users
+      Sales_amount
+      Sales_qty 
+
+    Users Table:
+      To get data regarding demographics such as age, occupation, marital status, family size, educational qualifications, reported income
+      Age
+      Educational Qualifications
+      Family Size
+      Marital Status
+      Monthly Income
+      Occupation
+
+Conclusions:
+
+  - Weekend ordering is remarkably low, but larger families spend more on Sundays than any other day of the week.
+  - Only around 5% of our customers repeat an order after a month, new customer accrual decreased month by month.
+  - Students who dont recieve an income generate most of our sales.
+
+Recommendations: 
+  - Create a "Family Meal Deal" to attract more family ordering on weekends
+  - Create a "New Customer Incentive" that can be redeemed on first order to attract new customers. 
+    Implement a monthly incentive to increase retention rates for existing customers.
+  - Create a "Student Version" of the app that allows for reduced fees for people who sign up
+    with a student/university email.
+
+
+
+
+	
+	
+
+
