@@ -11,6 +11,7 @@ List of Data Analysis Projects with TripleTen
 | 5 | Storytelling with Data - Tableau | The project task was to build a story in Tableau in order to explore data on returned items and generate conclusions and recommendations in a presentation format|
 | 6 | Shopify App Analysis - PowerBI | The project task was to review the landscape of apps on the Shopiffy platform, using data scraped from publicly availabel Shopify websites|
 | 7 | [Zomato Customer Analysis - PowerBI](https://github.com/TounsiOmar/-Data_Projects-/tree/main/Project_3) | The project task was to answer the following questions and build reports and dashboards to provide recommendations and solutions for the Zomato marketing department: Who are Zomato’s customers? What segments can we split them into? What is their purchasing behavior? What makes certain customers more profitable than others?What steps can we take to improve customer retention? |
+| 7 | Career Track Analysis With SQL and Tableau | The project task was to analyze the career track enrollments and achievments of 365's students. First I retrived the necessary information from an SQL database. Afterward, I fed this information to Tableau, visualizing the results in reports and dashboards, and finally interpreted them. |
   
 
 
