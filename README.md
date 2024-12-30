@@ -4,7 +4,7 @@ List of Data Analysis Projects with TripleTen
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | NYC Airbnb Spreedsheet Analysis| The project task was to analyze Airbnb Data from NYC and answer: 1). Which nieghborhoods and property sizes are most attractive for vacation rentals? 2). How much money did these listings generate?  |
+| 1 | [NYC Airbnb Spreedsheet Analysis](https://github.com/TounsiOmar/-Data_Projects-/tree/main/Project_1)| The project task was to analyze Airbnb Data from NYC and answer: 1). Which nieghborhoods and property sizes are most attractive for vacation rentals? 2). How much money did these listings generate?  |
 | 2 | Uber in Chicago | The project task was to perform a exploratory data analysis of a 4 table schema using SQL and to determine if and how the duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays compared to other days of the week and other weather conditions. |
 | 3 | Turning Event Logs into Business Metrics | The project task was to study Business Data in Google Sheets and create: Conversion Funnels, Cohort Analysis, Retention Rate Calculation, and Documentation and Organization of the spreedsheet |
 | 4 | Saving SuperStore - Tableau | The project task was to build a report and dashboard in Tableau for the "SuperStore" company to analyze: Profts and Losses, Advertising, Returned Items|
