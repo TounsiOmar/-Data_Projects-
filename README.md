@@ -1,4 +1,4 @@
-# -Data_Projects_TripleTen-
+# -Data_Projects-
 List of Data Analysis Projects with TripleTen
 
 
